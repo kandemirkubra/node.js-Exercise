@@ -11,7 +11,7 @@ const argument =  process.argv.slice(2);
 function showCircleArea(radius){
     let valueRadius = radius*radius*Math.PI
     let result = valueRadius.toFixed(2); 
-    console.log(`${result}`);
+    console.log("Yarı çapı " + `${radius}` + " olan dairenin alanı = "  + `${result}`);
 }
 
 showCircleArea(argument[0] * 1);
