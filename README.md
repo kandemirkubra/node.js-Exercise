@@ -1,8 +1,6 @@
-*# Node.js-Exercise*
+###### Node.js-Exercise
 
-/play tada
+:arrow_right: Patika.dev ve Kodluyoruz Akademinin oluşturmuş olduğu node.js challenge çalışmalarını içeren repo'dur. :innocent: :open_file_folder:
 
-Patika.dev ve Kodluyoruz Akademinin oluşturmuş olduğu node.js challenge çalışmalarını içeren repo'dur. :innocent: :open_file_folder:
-
-Ödevler patika.dev tarafından verildi. Ödevler sırasıyla isimlendirilmiştir. :books:
+:arrow_right: Ödevler patika.dev tarafından verildi ve sırasıyla isimlendirilmiştir. :books:
 
