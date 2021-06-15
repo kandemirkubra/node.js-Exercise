@@ -18,7 +18,7 @@ fs.readFile('employees.json', 'utf8', (err, data) => {
 });
 
 // (DATA UPDATE)
-fs.writeFile('employees.json', '{"name": "Employee 2 Name Kübra}", "salary": 2021}', 'utf8', (err) => {
+fs.writeFile('employees.json', '{"name": "Employee 2 Name Kübra", "salary": 2021}', 'utf8', (err) => {
     if(err) console.log(err);
     console.log('\n JSON dosyasına veri güncellendi.')
 });
